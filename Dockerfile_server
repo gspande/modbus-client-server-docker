@@ -1,5 +1,0 @@
-# Use the oitc/modbus-server image as the base
-FROM oitc/modbus-server:latest
-
-# Expose the default Modbus port
-EXPOSE 502
